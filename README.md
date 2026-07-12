@@ -270,9 +270,9 @@ If you use this code in your research, please cite:
 
 ## 📧 Contact
 
-- **Author**: JerryWu
+- **Author**: Yuqian Wu
 - **Project**: G-TAF (Graph Neural Network-driven Tactical Analysis Framework)
-- **Institution**: [Your Institution]
+- **Institution**: Central South University
 
 ---
 
